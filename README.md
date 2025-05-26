@@ -64,12 +64,13 @@ This project was built to help stakeholders understand:
 
 ## 📷 Dashboard Screenshots
 
-| Executive Overview | Churn & Activity | High-Value Users |
-|--------------------|------------------|------------------|
-| ![image](https://github.com/user-attachments/assets/2cc9718d-de1f-4cab-8aac-344127921392)
- | ![image](https://github.com/user-attachments/assets/dffd6c19-71ee-4245-9ea5-ade60fbb9099)
- | ![image](https://github.com/user-attachments/assets/da161f17-1482-42cc-b161-ff7f8b9e93a2)
- |
+## Executive Overview 
+![image](https://github.com/user-attachments/assets/2cc9718d-de1f-4cab-8aac-344127921392)
+## Churn & Activity
+![image](https://github.com/user-attachments/assets/dffd6c19-71ee-4245-9ea5-ade60fbb9099)
+## High-Value Users 
+![image](https://github.com/user-attachments/assets/da161f17-1482-42cc-b161-ff7f8b9e93a2)
+
 
 
 
